@@ -1,0 +1,105 @@
+******* DATA STRUCTURE ********
+Data structures are different ways of organizing data on your
+computer that can be used effectively.
+A good software engineer knows the right data structure to choose for
+a particular software solution to enhacne performance and efficiency
+
+******* ALGORITHM *********
+An algorithm is a set of steps taking to accomplish a task,
+In computer science, an algorithm is a set of steps a computer
+system must follow to accomplish a task. Learning about different
+alrogithms and knowing when to apply them helps us to write
+time and memory effienct programs.
+
+*** Famous Algorithms ****
+1. Graph Alrogithm for maps (eg. google maps)
+2. Compression Algorithm for online videos (eg. youtube)
+
+One can also create his/her own algorithm by following
+these important rules
+1. Correctness, the algorithm has to provide accurate result
+2. efficiency, the algorithm has to be efficient in terms of time and memory
+
+
+********************************************************
+***** IMPORTANCE OF DATA STRUCTURES AND ALGORITHMS *****
+with the use of data structures and algorithms, we efficiently process
+input data from users and return results within the shortest possible time
+1. They help process data with efficiency
+2. They help us process data withing a shortest possible time
+3. They help us provide the best possible result to users
+4. The help us provide accurate result to users
+
+***************************************************
+******* TYPES OF DATA STRUCTURES IN PYTHON ********
+In Python, data structures are categorized under two main categories
+
+1. Primitive {
+    they are
+    1. floats,
+    2. string,
+    3. integers,
+    4. booleans
+
+    These are basic data types that cannot be
+    broken down into smaller data types
+    i. They have a fixed size
+    ii. They are smaller in size
+    iii. Used for simple operations
+    iv. Represented in meory as simple values
+}
+
+2. Non Primitive{
+    These are complex data types that can be
+    broken down into smaller data types
+    i. Larger in size
+    ii. They can grow or shrink dianamically
+    iii. They can be made one more primitive data types
+    iv. Used for complex operations like data manupulation, sorting or searching
+    v. Represented in memory as pointers to other memory locations
+
+    SUB DIVIDED INT
+
+    1. LINEAR {
+        With linear, objects are arranged in a sequencial order with
+        each element connected to its adjancent element, used to Represent
+        a sequence of data where order of element is important
+        i. List
+        ii.Tuple
+        iii. Array
+        iv. Linked List
+        v. Stack
+        vi. Queue
+        }
+
+
+    2. NON LINEAR{
+        With this, the elements are not arranged in a sequencial order.
+        This data structure is used to represent a hirachical relationship
+        between data elements where each element is connected to one or more
+        element in a specific way
+        i. Set
+        ii. Dictionary
+        iii.Tree
+        iv. Graph
+        these can be sub divided into built in data structures or user defined data strctures
+        with user defined data structures, we may have to use an external library or
+        create them ourselves.
+    }
+
+}
+
+**************** TYPES OF ALGORITHMS ***************
+1. Sorting Algorithms{eg. Selection sort, bubble sort, insertion sort etc.}
+2. Seraching Algorithms {Binary search, linear search}
+3.Graph Algoriths {eg. Depth First Searh, Breadth First Search, Dijkstra's algorithm}
+4. Dynamic Programming Algorithms{Is used to break problems down into small
+sub problems }
+5. Divide and Conquer Algorithm {Used to break problems into smaller sub
+problems, solving each sub problem independently and combining the results eg
+merge sort, quick sort }
+6. Recursive Algorithm {Used to break problems down into smaller sub pronlems
+that are similar in nature}
+7. Randomized algorithms
+8. Brute force algorithms
+9. Greedy algorithms
